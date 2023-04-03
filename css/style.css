@@ -1,0 +1,39 @@
+body
+{
+        background: #24353f;
+        font-family: 'Titillium Web', sans-serif;
+        color: #fff;
+}
+.group
+{
+        background: #24353f;
+        box-shadow: -5px 2px 54px -9px rgb(0 0 0);  
+}
+h1
+{
+        color: #17a2b8;
+}
+input{
+        background-color:  #24353f !important;
+        color: #fff !important;
+      
+    }
+input::placeholder 
+{
+        color: white  !important;
+        opacity: .6 !important;
+}
+#required
+{
+        color: red;
+}
+
+.nav-login,#content
+{
+        background-color: #24353f;
+        box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+#content h1
+{
+        color:#17a2b8
+}
